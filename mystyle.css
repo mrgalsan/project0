@@ -1,0 +1,27 @@
+#maintitle {
+  font-size: 40px;
+  text-align: center;
+  margin:100px;
+}
+
+
+.img-container, .btn-container, .link-container, .chart-container, .vote-container, .form-container{
+  display: :block;
+  text-align:center;
+  margin-top:100px;
+  margin-bottom:100px;
+}
+
+#chart-container{
+  margin-left:100px;
+}
+
+#funinpark, #ocean, #penandtable, #parklake, #byciclepark{
+  width:100%;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
